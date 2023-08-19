@@ -1,6 +1,7 @@
 # Contrôle des systèmes dynamiques
 
 Des outils mathématiques d'analyse structurelle d'un système dynamique linéaire. 
+
 A travers l'analyse de fonctionnement de systèmes biologique, économique, aéronautique, électromécanique, électronique, informatique et bien d'autres le paradigme de la rétroaction est introduit de façon constructive. Les notions fondamentales comme la stabilité, la commandabilité et l'observabilité des systèmes linéaire
 ainsi que la transformation de modèles de représentation seront introduite afin de donner aux élèves les outils nécessaires d'analyse structurelle, de spécification et de conception des systèmes de commande en boucle fermée. A l'issue de cette unité les élèves auront acquis une méthodologie d'analyse et de conception des systèmes de contrôle
 ainsi qu'une maitrise des boites à outils de synthèse des lois de contrôle et de génération de code contrôleur fournis par le progiciel Matlab/Simulink/dSpace.
